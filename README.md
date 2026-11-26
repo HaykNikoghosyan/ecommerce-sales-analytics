@@ -108,6 +108,10 @@ subqueries, CASE and UNION.
 - Top 20% of customers generate ~74% of revenue
 - Forecast back-test MAPE ~7% vs ~18% for a seasonal-naive baseline
 
+![Revenue forecast](docs/revenue_forecast.png)
+![Customer clusters](docs/clusters_scatter.png)
+![Pareto curve](docs/pareto_curve.png)
+
 ## Methods
 
 - **RFM:** quintile scores for recency, frequency and monetary value, mapped to
